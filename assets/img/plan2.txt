@@ -1,0 +1,36 @@
+Tabel 1
+Kuota Kelas Kamar
+
+id_lokasi	id_kelas_kamar		kuota_kamar
+_________	______________		___________
+    X		       A		    15
+
+
+Tabel 2
+Orderan
+
+id_kelas_kamar		id_kamar	tgl_in		tgl_out		jumlah
+______________		________	______		_______		______
+
+
+
+Tabel 3
+Kuota Kuota Kelas Kamar Day by Day
+4 x 3 x 31 x 12 = 
+
+Thn	Bln	id_kelas d01	d02	d03 d04...	...	... ...	d31
+00	01	  A	  15	 15	0    15	
+00	01	  B	  15	 15	0    15	
+00	01	  C	  15	 15	0    15	
+
+00	02	
+00	03	
+00	04	
+00	05	
+00	06	
+00	07
+00	08
+00	09
+00	10
+00	11
+00	12

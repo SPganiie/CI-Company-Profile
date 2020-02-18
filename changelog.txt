@@ -1,0 +1,35 @@
+14-03-2019
+panel admin      #done#
+footer dinamis   #done#
+configurasi ci   #done#
+header	         #done#
+panel admin      #done#
+footer           #done#
+sliders          #done#
+post             #done#
+home             #done#
+testimonil       #done#
+
+
+13-03-2019
+panel admin      #done#
+footer dinamis   #done#
+configurasi ci   #done#
+header	         #done#
+panel admin      #done#
+footer           #done#
+sliders          belum dinamis
+post             belum dinamis
+home             belum dinamis
+testimonil       belum dinamis
+
+
+11-03-2019
+configurasi ci   #done#
+header	         #done#
+panel admin
+footer
+sliders
+post
+home
+testimonil
